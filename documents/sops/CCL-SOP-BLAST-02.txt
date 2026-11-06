@@ -1,0 +1,15 @@
+---
+SOURCE_ID: CCL-SOP-BLAST-02
+TITLE: SOP for Drilling and Blasting
+SOURCE_TYPE: Standard Operating Procedure
+PAGE_COUNT: 6
+PUBLICATION_DATE: 2022-08-15
+SYNTHETIC: true
+ISSUING_AUTHORITY: Central Coalfields Limited (CCL)
+---
+
+1. Blasting shall only be performed by a certified blaster.
+2. The danger zone (500 meters radius) must be cleared of all personnel and machinery before blasting.
+3. Warning sirens must be sounded 5 minutes before the blast, and 1 minute before the blast.
+4. Misfires must be handled cautiously. No one shall enter the blast area for at least 30 minutes after a suspected misfire.
+5. Explosives must be transported in approved explosive vans.

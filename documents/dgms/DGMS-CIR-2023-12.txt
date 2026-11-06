@@ -1,0 +1,15 @@
+---
+SOURCE_ID: DGMS-CIR-2023-12
+TITLE: Safety Standards for Electrical Installations in Underground Coal Mines
+SOURCE_TYPE: DGMS Circular
+PAGE_COUNT: 8
+PUBLICATION_DATE: 2023-11-20
+SYNTHETIC: true
+ISSUING_AUTHORITY: Directorate General of Mines Safety, Dhanbad
+---
+
+1. All electrical cables used underground must be flame-retardant.
+2. Earth leakage relays must be installed at all substations and tested monthly.
+3. Switchgears must have intrinsically safe circuits for control and interlock.
+4. Clearances: A minimum clearance of 1.5 meters must be maintained around electrical panels.
+5. Any electrical breakdown must be reported immediately to the electrical supervisor.

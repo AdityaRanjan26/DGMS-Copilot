@@ -1,0 +1,25 @@
+---
+SOURCE_ID: SHIFT-REP-2024-05-10-A
+TITLE: Shift Report - Shift A, Mine XYZ
+SOURCE_TYPE: Shift Report
+PAGE_COUNT: 2
+PUBLICATION_DATE: 2024-05-10
+SYNTHETIC: true
+ISSUING_AUTHORITY: Shift Incharge, Mine XYZ
+---
+
+Date: 2024-05-10
+Shift: A (06:00 - 14:00)
+
+Production:
+- Coal: 1500 Tonnes
+- Overburden: 4500 Cubic Meters
+
+Safety Incidents:
+- Near Miss: Dumper no. D-14 experienced steering stiffness near the main haul road curve at 10:30 AM. Maintenance team notified.
+
+Maintenance:
+- Excavator EX-03 was down for scheduled maintenance (hydraulic oil change) from 08:00 to 11:00.
+
+Notes:
+- Dust levels were high near loading point 2. Requested additional water sprinkler deployment for Shift B.

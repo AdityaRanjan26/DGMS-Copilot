@@ -1,0 +1,146 @@
+---
+SOURCE_ID: DGMS-TECH-NOTE-2023-09
+TITLE: PPE Compliance During Blasting, Drilling, Haul Road Maintenance and High-Risk Activities in Mechanised Mines
+SOURCE_TYPE: DGMS Technical Note
+PAGE_COUNT: 7
+PUBLICATION_DATE: 2023-09-18
+SYNTHETIC: false
+ISSUING_AUTHORITY: Directorate General of Mines Safety, Dhanbad
+---
+
+GOVERNMENT OF INDIA
+MINISTRY OF LABOUR AND EMPLOYMENT
+DIRECTORATE GENERAL OF MINES SAFETY
+Iron Side Building, Hirapur, Dhanbad – 826 001 (Jharkhand)
+
+TECHNICAL NOTE NO. DGMS (Tech) Note No. 09 of 2023
+Date: 18 September 2023
+
+SUBJECT: Personal Protective Equipment (PPE) Compliance Requirements During Blasting, Drilling, Haul Road Maintenance, and Other High-Risk Activities in Mechanised Coal Mines
+
+1. PURPOSE AND SCOPE
+
+1.1 This Technical Note is issued to clarify and consolidate the PPE requirements applicable to workers engaged in high-risk activities at mechanised coal mines, including surface and underground operations.
+
+1.2 The provisions of this Note are drawn from the Mines Act, 1952 (Section 21 — safety officers, Section 22 — precautions in dangerous work), Coal Mines Regulations, 2017 (Regulations 169–185 — personal protective equipment), and the Mines Rules, 1955.
+
+1.3 This Technical Note applies to all workers, including departmental and contractual employees, engaged in the activities specified herein.
+
+2. MANDATORY PPE FOR HIGH-RISK ACTIVITIES
+
+2.1 Universal Baseline PPE (All Surface and Underground Personnel)
+Every person entering the mine premises beyond the security perimeter shall at all times wear:
+(a) Safety helmet conforming to IS 2925 or EN 397 with chin strap fastened.
+(b) Safety footwear conforming to IS 1989 (Part I) with steel toe cap and steel midsole.
+(c) High-visibility reflective vest or jacket conforming to IS 15809 Class 2 minimum for all surface personnel in vehicle movement zones.
+
+2.2 Haul Road and Surface Vehicle Zones
+Workers engaged in haul road maintenance, stockyard operations, workshop activities, and all persons in areas with operating heavy earth moving equipment or dumper traffic shall wear:
+(a) Safety helmet (as 2.1(a)).
+(b) Safety footwear (as 2.1(b)).
+(c) High-visibility reflective jacket (fluorescent yellow or orange with reflective silver bands).
+(d) Dust mask (minimum P2 FFP2 rated) when dry drilling, haul road watering operations have lapsed, or dust concentrations are visually perceptible.
+(e) Safety goggles or face shield where projectile risk exists (tyre changes, welding, cutting, blasting operations).
+
+2.3 Drilling Operations (Surface and Underground)
+Supervisors shall ensure the following PPE is verified and worn before commencement of drilling:
+(a) Safety helmet.
+(b) Safety footwear.
+(c) Dust respirator (P3 FFP3 rated for silica-bearing strata or as determined by occupational hygiene sampling).
+(d) Safety goggles or face shield.
+(e) Hearing protection (ear muffs or plugs rated to minimum SNR 25 dB) during drill operation.
+(f) Anti-vibration gloves for continuous pneumatic or rotary percussion drilling exceeding 30 minutes.
+
+2.4 Blasting Operations
+The following PPE requirements are mandatory for all persons involved in or remaining within the blasting zone during any phase of blasting operations:
+(a) Safety helmet with chin strap.
+(b) Safety footwear.
+(c) High-visibility jacket.
+(d) Blasting supervisor and shotfirer: additionally, the shotfirer's kit shall include a multi-gas detector (CO, CH4, O2 minimum) operable immediately after blast.
+(e) Blast exclusion zone: all persons not directly involved in the blasting operation shall be withdrawn to a distance of not less than 300 metres for surface blasts and to the nearest cross-cut or safety refuge for underground blasts.
+
+2.5 Coal Handling Plant (CHP) and Transfer Point Operations
+Persons working in coal handling plants, crusher houses, screens, and material transfer points shall wear:
+(a) Safety helmet.
+(b) Safety footwear.
+(c) Dust respirator (minimum FFP2 P2 rated).
+(d) Hearing protection where noise levels exceed 85 dB(A) as determined by workplace noise assessment.
+(e) High-visibility jacket.
+
+3. SUPERVISOR VERIFICATION OBLIGATIONS
+
+3.1 Pre-Task PPE Verification
+Supervisors shall ensure hard hats, reflective jackets, safety shoes, eye protection, and dust masks are verified before hazardous task allocation. This verification shall be documented in the shift log or pre-task toolbox talk record. The following specific obligations apply:
+
+(a) The supervisor responsible for a shift or crew shall conduct a physical PPE inspection of all workers before they commence any high-risk task.
+(b) Supervisors shall not permit any person to enter a high-risk area without verifiable compliance with the applicable PPE requirements for that area.
+(c) Where a worker is found without required PPE, the supervisor shall:
+    (i) Immediately direct the worker to cease the activity.
+    (ii) Issue the required PPE from the mine PPE store.
+    (iii) Record the non-compliance in the shift log.
+    (iv) If repeated non-compliance is observed, report to the Mine Manager for disciplinary action.
+
+3.2 Toolbox Talk Documentation
+A pre-task toolbox talk shall be conducted for any activity involving two or more workers in a high-risk category. The toolbox talk shall cover:
+(a) Task-specific hazards.
+(b) Required PPE for the task.
+(c) Emergency contact and response procedures.
+The attendance and key points of the toolbox talk shall be recorded, signed by the supervisor, and retained for a minimum of 90 days.
+
+4. PPE INSPECTION, MAINTENANCE, AND REPLACEMENT
+
+4.1 Pre-Use Inspection
+All PPE shall be inspected by the user before each use. Items showing signs of damage, deterioration, or malfunction shall be removed from service and replaced.
+
+4.2 Helmet Inspection
+Safety helmets shall be replaced:
+(a) After any impact, regardless of visible damage.
+(b) After exposure to chemicals, solvents, or high heat.
+(c) After a maximum service life of 3 years from the date of first use, or 5 years from the date of manufacture, whichever is earlier.
+
+4.3 Respiratory Protection
+Disposable FFP2/FFP3 respirators shall not be re-used if they are wet, damaged, heavily contaminated, or have been worn for more than 8 hours. Reusable half-face respirators shall have filter cartridges replaced in accordance with manufacturer's schedule and mine-specific hygiene assessment results.
+
+4.4 Footwear
+Safety footwear shall be inspected for sole delamination, steel toe damage, upper damage, and oil/chemical degradation. Any footwear with sole depth below 2 mm in the heel area shall be replaced.
+
+5. PPE ISSUE AND RECORD KEEPING
+
+5.1 The Mine Manager shall establish a PPE issue register recording, for each worker:
+(a) Name, designation, and employee ID.
+(b) Items of PPE issued with dates.
+(c) Reason for replacement if within normal service life.
+(d) Worker's signature on receipt.
+
+5.2 The PPE register shall be available for inspection by DGMS Inspectors at all times.
+
+5.3 No charge shall be levied on a worker for PPE required under this Technical Note or the Mines Act.
+
+6. RESPONSIBILITY MATRIX
+
+6.1 Mine Manager: Ensuring adequate PPE stock, establishing PPE issue and inspection procedures, reviewing non-compliance reports, enforcing disciplinary action for repeated non-compliance.
+
+6.2 Overman / Supervisor: Pre-task PPE verification for all workers, conducting toolbox talks, documenting non-compliance, withdrawing non-compliant workers from hazardous areas.
+
+6.3 Safety Officer: Conducting periodic PPE compliance audits, advising on appropriate PPE selection, conducting worker training on correct usage and inspection.
+
+6.4 Worker: Correctly wearing required PPE at all times in designated areas, inspecting PPE before use, reporting damaged or inadequate PPE to supervisor, not modifying or tampering with PPE.
+
+7. COMPLIANCE AUDIT
+
+7.1 The mine's Safety Officer shall conduct a documented PPE compliance audit at each high-risk area not less than once per fortnight. Audit records shall capture compliance rates, non-compliance instances, and corrective actions.
+
+7.2 Persistent non-compliance (compliance rate below 90% in three consecutive audits for the same area) shall be escalated to the Regional Controller of Mines.
+
+8. PENALTIES AND ENFORCEMENT
+
+8.1 Non-compliance with PPE requirements under the Mines Act, 1952 and CMR 2017 may result in prosecution under Section 23(1) of the Mines Act, which provides for penalties including fines up to ten thousand rupees for contraventions by persons employed at a mine.
+
+8.2 Managers and supervisors who fail to enforce PPE requirements may face action under Section 66 of the Mines Act for abetment of contravention.
+
+(R. Prasad, IRS)
+Deputy Director General of Mines Safety (Technical)
+Dhanbad, 18 September 2023
+
+Occupational Safety Cell
+DGMS, Dhanbad

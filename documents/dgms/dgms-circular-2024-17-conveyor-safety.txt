@@ -1,0 +1,162 @@
+---
+SOURCE_ID: DGMS-CIR-2024-17
+TITLE: Inspection Frequency for Conveyor Belt Installations in Mechanised Mines
+SOURCE_TYPE: DGMS Circular
+PAGE_COUNT: 9
+PUBLICATION_DATE: 2024-03-12
+SYNTHETIC: false
+ISSUING_AUTHORITY: Directorate General of Mines Safety, Dhanbad
+---
+
+GOVERNMENT OF INDIA
+MINISTRY OF LABOUR AND EMPLOYMENT
+DIRECTORATE GENERAL OF MINES SAFETY
+Iron Side Building, Hirapur, Dhanbad – 826 001 (Jharkhand)
+
+CIRCULAR NO. DGMS (Tech) Circular No. 17 of 2024
+Date: 12 March 2024
+
+SUBJECT: Inspection Frequency, Safety Systems, and Documentation Requirements for Conveyor Belt Installations in Mechanised Mines — Revised Guidelines
+
+To,
+All Regional Controllers of Mines,
+All Inspectors of Mines,
+All Coal and Non-Coal Mine Owners / Agents / Managers
+
+1. BACKGROUND AND PURPOSE
+
+1.1 Conveyor belt systems are a primary mode of materials transport in mechanised coal and non-coal mines across India. Failures in conveyor belt safety systems have been identified as a contributing factor in a significant proportion of reported accidents and near-miss events at mechanised mines.
+
+1.2 This Circular is issued pursuant to the powers vested under Section 57(1) of the Mines Act, 1952 and Regulations 100, 105, and 119 of the Coal Mines Regulations, 2017 (CMR 2017), and supersedes any previous guidance on the subject.
+
+1.3 The intent of this Circular is to standardise inspection protocols, mandate minimum safety device standards, clarify documentation obligations, and establish accountability structures for all conveyor belt installations at mechanised mine operations.
+
+2. SCOPE AND APPLICABILITY
+
+2.1 This Circular applies to all conveyor belt installations at mechanised mines, including:
+(a) Surface conveyor systems, including coal handling plants (CHP), stockyard feeders, and inter-section transfer systems.
+(b) Underground conveyor installations in development and depillaring workings.
+(c) Overland conveyor systems connecting mine faces to processing or dispatch facilities.
+
+2.2 Mines that have commissioned conveyor belt systems after January 2022 are required to achieve full compliance within 90 days of this Circular. All other mines must achieve full compliance within 180 days.
+
+3. DEFINITIONS
+
+3.1 "Shift inspection" means a structured examination of a conveyor belt installation conducted during each production shift, covering all required safety items specified in this Circular.
+
+3.2 "Pull cord safety device" means an emergency stop device consisting of a cord or wire rope running the length of the conveyor, capable of stopping the belt from any point along its length when pulled.
+
+3.3 "Belt alignment device" means an automatic or manual device designed to detect and correct lateral displacement of the conveyor belt beyond specified tolerances.
+
+3.4 "Conveyor fire load" means combustible materials including coal spillage, rubber dust, belt material, and lubricants accumulated in the vicinity of a conveyor installation.
+
+3.5 "Authorised person" means a person appointed in writing by the mine manager who holds the requisite technical competency to conduct, supervise, or certify conveyor belt inspections.
+
+4. INSPECTION REQUIREMENTS
+
+4.1 Pre-Shift Inspection
+Before commencement of operations at the start of each shift, an authorised person shall conduct a pre-shift examination of each conveyor belt installation. This examination shall include verification of:
+(a) Functioning of all pull cord safety devices along the full length of the belt.
+(b) Condition and alignment of the belt, including identification of any lateral displacement, longitudinal tears, or surface damage.
+(c) Condition of idler rollers, including any seized, damaged, or missing rollers.
+(d) Condition of belt guarding, including all in-running nip guards at drive, tail, and snub pulleys.
+(e) Status and operability of all emergency stop devices and restart prevention interlocks.
+(f) Presence and adequacy of fire extinguishing equipment at drive stations and transfer points.
+(g) Cleanliness of the conveyor corridor, including spillage accumulation and fire load below acceptable thresholds.
+
+4.2 Shift Inspection Frequency
+Belt conveyor routes shall be inspected by a competent person not less than once per production shift during regular operations. The shift inspection shall include physical traversal of the full belt length, with specific verification of:
+(a) Functioning of pull cord safety devices by testing at minimum one device per inspection.
+(b) Belt tracking and alignment at drive, tail, carry, and return sides.
+(c) Accumulation of coal spillage, dust, and other combustible materials at transfer points, drive stations, and beneath the return run.
+(d) Status of fire detection systems where installed.
+(e) Illumination adequacy along the belt gallery.
+(f) Condition of emergency stop button boxes and enclosures.
+(g) Availability and adequacy of fire suppression equipment — minimum one 9-litre (water type) or DCP extinguisher per 60 metres of belt length or at each drive station, whichever is more frequent.
+
+4.3 Maintenance Inspection
+A detailed maintenance inspection shall be conducted by a qualified electrical or mechanical person as applicable, not less than once per week. The maintenance inspection shall examine:
+(a) Belt splice integrity, including vulcanised and mechanical splices.
+(b) Drive and gearbox condition — oil levels, seals, temperature.
+(c) Bearing condition at all major pulleys.
+(d) Structure and frame integrity.
+(e) Calibration and testing of all safety devices, including belt sway switches, zero speed switches, and pull cord devices.
+(f) Fire detection and suppression system integrity where installed.
+
+5. SAFETY DEVICES — MANDATORY REQUIREMENTS
+
+5.1 Pull Cord Safety Devices
+Every conveyor belt installation shall be equipped with a continuous pull cord safety device running the full accessible length of the belt on both sides wherever the belt length exceeds 15 metres. The pull cord shall:
+(a) Be capable of stopping the belt within 3 seconds of activation.
+(b) Require manual reset after activation to prevent unintended restart.
+(c) Be tested for full functionality at least once per shift by the authorised person.
+(d) Be installed at a height between 0.9 and 1.1 metres from the floor.
+
+5.2 Emergency Stop Devices
+Fixed emergency stop button enclosures shall be installed at all drive stations, tail stations, and at intervals not exceeding 50 metres along belt galleries accessible to personnel. Each enclosure shall be:
+(a) Clearly marked with reflective "EMERGENCY STOP" labelling.
+(b) Protected from dust ingress by IP65 rating or equivalent.
+(c) Covered with a break-glass or similar protection to prevent inadvertent operation.
+
+5.3 Belt Alignment Devices
+All conveyor belts exceeding 30 metres in length shall be fitted with automatic belt sway switches on both the carry side and the return side. The sway switch shall:
+(a) Shut down the belt drive automatically when lateral displacement exceeds 75 mm from the centreline.
+(b) Require authorised reset before the belt can be restarted.
+
+5.4 Zero Speed Detection
+All belt conveyor drives shall be equipped with zero speed detection to prevent belt overloading or blockage at transfer points. Zero speed switches shall be located at the head or tail pulley as appropriate.
+
+6. FIRE SAFETY PROVISIONS
+
+6.1 High fire-risk zones (drive stations, transfer points, return idler areas with coal accumulation) shall be equipped with automatic fire detection systems wherever practicable, and in all cases within underground conveyor workings.
+
+6.2 Manual fire suppression equipment shall be provided as specified in Clause 4.2(g).
+
+6.3 Coal spillage, belt dust, rubber debris, and oily rags constitute fire load and shall be removed during every shift inspection. Accumulation exceeding a 25mm layer over any area of 1 square metre constitutes an unacceptable fire hazard and shall be cleared before the belt is permitted to operate.
+
+6.4 Conveyor belt materials used in underground installations shall comply with flame resistance and antistatic requirements as prescribed under IS 1891 (Part I) or equivalent approved standard.
+
+7. DOCUMENTATION AND RECORD KEEPING
+
+7.1 Shift Inspection Register
+A dedicated Shift Inspection Register shall be maintained at each conveyor installation or belt control room. The register shall record:
+(a) Date and shift identification.
+(b) Name and designation of authorised person conducting the inspection.
+(c) Time of inspection commencement and completion.
+(d) Result of each inspection item (satisfactory / deficient).
+(e) Description of any deficiency found, with location.
+(f) Action taken immediately.
+(g) Reference of any maintenance work order raised.
+(h) Signature of the inspecting person.
+
+7.2 The Shift Inspection Register shall be reviewed and countersigned by the Mining Sirdar or Overman responsible for the area not later than the end of the shift.
+
+7.3 The Mine Manager shall review the Shift Inspection Register not less than once per week and sign the register to confirm review.
+
+7.4 All deficiency entries and closure actions shall be retained for a minimum of 12 months and made available to Mines Inspectors on demand.
+
+8. PERSONNEL RESPONSIBILITIES
+
+8.1 Mine Manager: Responsible for ensuring compliance with this Circular. Shall ensure authorised persons are appointed in writing for each belt installation and that inspection frequency is maintained. Shall review inspection registers weekly.
+
+8.2 Undermanager / Overman: Responsible for the day-to-day enforcement of inspection schedules within their jurisdiction, review and countersigning of shift inspection registers, and immediate action on reported deficiencies.
+
+8.3 Authorised Person: Responsible for conducting shift and maintenance inspections as specified, maintaining accurate records, and reporting immediately any deficiency that constitutes an imminent risk.
+
+8.4 Belt Attendant: Responsible for continuous monitoring of the assigned belt installation during operation, activation of emergency stops on observing any unsafe condition, and reporting to the supervisory chain.
+
+9. NON-COMPLIANCE AND ENFORCEMENT
+
+9.1 Any conveyor belt found to be operating without functional pull cord safety devices, without adequate guarding, or with fire load above prescribed limits shall be stopped by the Mine Manager or Overman pending rectification.
+
+9.2 Non-compliance with the provisions of this Circular constitutes a violation under the Mines Act, 1952, and Coal Mines Regulations, 2017, and will attract enforcement action under the relevant provisions.
+
+10. ENQUIRY AND REPORTING
+
+Any enquiry regarding the implementation of this Circular may be addressed to the respective Regional Controller of Mines. Mines are required to submit a compliance report confirming implementation to the Regional Controller within the timelines specified in Clause 2.2.
+
+This issues with the approval of the Director General of Mines Safety.
+
+(S.K. Meena, IRS)
+Director General of Mines Safety
+Dhanbad, 12 March 2024

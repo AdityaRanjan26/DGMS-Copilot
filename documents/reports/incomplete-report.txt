@@ -1,0 +1,21 @@
+---
+SOURCE_ID: INCOMP-RPT-KARO-2026
+TITLE: Incomplete Shift Report - Karo OCP
+SOURCE_TYPE: Shift Report
+PAGE_COUNT: 1
+PUBLICATION_DATE: 2026-06-24
+SYNTHETIC: true
+ISSUING_AUTHORITY: Karo OCP Shift Incharge
+---
+Shift Report - Karo OCP
+Date: 24 June 2026
+Shift: B (14:00 - 22:00)
+
+Personnel:
+- Shift Overman: Rajesh Verma
+
+Safety Observations:
+- Shovel broke down.
+- Dusty roads.
+- Some people not wearing helmets.
+- Work stopped at 20:00.

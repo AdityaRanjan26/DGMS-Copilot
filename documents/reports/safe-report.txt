@@ -1,0 +1,37 @@
+---
+SOURCE_ID: SAFE-RPT-KARO-2026
+TITLE: Safe Shift Report - Karo OCP
+SOURCE_TYPE: Shift Report
+PAGE_COUNT: 1
+PUBLICATION_DATE: 2026-06-23
+SYNTHETIC: true
+ISSUING_AUTHORITY: Karo OCP Shift Incharge
+---
+Shift Report - Karo OCP
+Date: 23 June 2026
+Shift: A (06:00 - 14:00)
+
+Personnel:
+- Shift Overman: Ramesh Kumar
+- Mining Sirdar: Amit Singh
+- Excv Operator: Suresh
+
+Locations:
+- Panel 4B
+- CHP Transfer Point 1
+
+Equipment:
+- Shovel S-12
+- Dumper D-45, D-46
+- Auxiliary Fan F-02
+
+Safety Observations:
+- All pre-shift inspections were completed on time.
+- Auxiliary Fan F-02 is functioning perfectly with adequate ventilation measured at 5 m/s at the working face.
+- Water sprinkling was done continuously on the haul roads, minimizing airborne dust.
+- Conveyor belt pull cords at CHP Transfer Point 1 were tested and are fully operational.
+- All personnel were wearing proper PPE (hard hats, safety boots, dust masks, reflective vests).
+- No hazards identified.
+
+Corrective Actions:
+- None required. All operations proceeded smoothly and safely.

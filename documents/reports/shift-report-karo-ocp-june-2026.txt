@@ -1,0 +1,91 @@
+---
+SOURCE_ID: SHIFT-RPT-KARO-JUN-2026
+TITLE: B Shift Operational Safety Report — Karo OCP, June 22-23, 2026
+SOURCE_TYPE: Shift Report
+PAGE_COUNT: 3
+PUBLICATION_DATE: 2026-06-23
+SYNTHETIC: true
+ISSUING_AUTHORITY: Shift Engineer / Overman, Karo OCP, Central Coalfields Limited
+SYNTHETIC_NOTE: This document is a realistic synthetic shift report created for the DGMS-Copilot pilot demonstration. Replace with actual CCL shift reports before production deployment.
+---
+
+CENTRAL COALFIELDS LIMITED
+KARO OPEN CAST PROJECT
+OPERATIONAL SAFETY SHIFT REPORT
+
+Mine: Karo OCP
+Shift: B Shift (Night)
+Date and Time: 22 June 2026, 22:00 hours to 23 June 2026, 06:00 hours
+Shift Incharge: Shri A.K. Verma, Overman (Grade II)
+Persons Deployed Underground: 0 (OCP — surface operations)
+Total Persons on Surface: 47 (departmental: 32, contractual: 15)
+Total Equipment Operating: Dumpers (6), Shovel (1), CHP Conveyor (1), Secondary Crusher (1)
+
+--- SECTION 1: OPERATIONS SUMMARY ---
+
+1.1 Haul Road Status:
+Main haul road from Bench 2 to dump: Operational. Road watering completed at 22:30 hours.
+Bench 3 access road: Not operational — dewatering in progress. No traffic permitted on Bench 3 road.
+
+1.2 Production Activities:
+Blasting scheduled for 02:00 hours — Bench 2, Section 4. Shot firer: Shri V.P. Sinha (valid certificate). Explosive: Slurry explosive (approved). Pre-blast safety zone clearance confirmed at 01:50 hours.
+Actual blast executed at 02:07 hours. No misfire. Post-blast gas check conducted at 02:45 hours — readings: CO 6 ppm (within limit), dust settled by 03:15 hours.
+
+1.3 CHP Operations:
+CHP Conveyor (Designation: CHP-01, 450m, drive station at CHP building) operated from 23:15 to 04:30 hours.
+Pre-shift inspection: Conducted by Shri M.K. Roy, Belt Attendant. Inspection completed at 22:50 hours. All items satisfactory except: Spillage at Transfer Point 2 (TP-2) noted — coal spillage approximately 30mm depth near idler row 47–49. Housekeeping action taken: spillage removed by 23:05 hours. Belt cleared for operation at 23:10 hours.
+
+--- SECTION 2: SAFETY OBSERVATIONS AND DEFICIENCIES ---
+
+OBSERVATION 1 — HIGH PRIORITY
+Area: CHP Transfer Point 2 (TP-2), 285m from drive station
+Issue: Repeat Observation — Coal spillage accumulation found for second consecutive shift (B shift 21 June and B shift 22 June) near Transfer Point 2, idler rows 47–49. Spillage depth approximately 30mm over approximately 1.2 square metres. This exceeds the permissible limit under DGMS-CIR-2024-17 Clause 6.3.
+Status: Partially cleared at shift start (housekeeping action at 23:05 hours). Recurred by 02:30 hours due to misaligned chute at TP-2.
+Root cause (preliminary): Chute wear plate misaligned causing excess spillage during transfer.
+Action taken this shift: Temporary housekeeping — spillage cleared twice during shift (23:05 and 03:45 hours). Work Order W-2026-1847 raised for chute wear plate replacement.
+Required closure: Permanent chute repair/alignment before next B shift. Assign dedicated belt attendant coverage at TP-2. Supervisor closure required with timestamped photo evidence.
+Priority: MEDIUM — repeat observation requires supervisor escalation.
+
+OBSERVATION 2 — HIGH PRIORITY
+Area: Haul Road Junction — Junction of Main Haul Road and Bench 3 Access
+Issue: Two contract workers (vehicle attendants) observed at 23:45 hours without dust masks (FFP2) during haul road maintenance activities adjacent to the main road. Activities involved dry sweeping of road surface and loose material removal.
+Worker IDs: Contractor Card C-441 and C-507.
+PPE status: Safety helmets worn (compliant), reflective jackets worn (compliant), safety footwear worn (compliant). Dust masks NOT worn despite dust generating activity.
+DGMS reference: DGMS Technical Note No. 09 of 2023 (DGMS-TECH-NOTE-2023-09) Section 2.2(d) requires dust masks during haul road maintenance when road watering has lapsed or dust is visually perceptible. Road watering had lapsed for approximately 45 minutes at the time of observation.
+Action taken this shift: Workers immediately directed to stop activity. Dust masks issued from the shift emergency stock (2 FFP2 masks). Toolbox talk conducted at 00:05 hours covering PPE requirements for dry haul road operations. Workers resumed with masks at 00:10 hours.
+Record: Non-compliance recorded in Shift Log and PPE Issue Register. Contract supervisor (Shri D.P. Banerjee) notified by phone at 00:15 hours.
+Required closure: Issue replacement masks to these workers from their contractor's PPE stock. Record toolbox talk attendance with signatures. Verify PPE issuance before next shift for contracted crew.
+Priority: MEDIUM — toolbox talk acknowledgement and PPE re-issue required.
+
+--- SECTION 3: VENTILATION (for reference — OCP surface operations) ---
+
+Not applicable for surface OCP operation. Dust monitoring conducted at haul road junction:
+Dust reading at 23:00: Visual assessment — low after road watering.
+Dust reading at 23:45: Visual assessment — moderate (lapsed watering). Triggered PPE intervention as recorded in Observation 2.
+Road watering resumed at 00:00 hours. 
+
+--- SECTION 4: EQUIPMENT STATUS AT SHIFT END ---
+
+CHP Conveyor CHP-01: Shut down at 04:30 hours. Status: Operational. Spillage at TP-2 requires chute repair (W-2026-1847 pending).
+Shovel P&H 1055: Operational. No deficiency.
+Dumpers (6 units): All operational. One dumper (No. D-14) reported brake fade at 04:00 hours — parked at workshop. Maintenance notified. Replacement dumper deployed.
+Secondary crusher: Operational.
+
+--- SECTION 5: INCIDENTS AND ACCIDENTS ---
+
+No reportable accidents occurred during this shift.
+No dangerous occurrences requiring DGMS notification.
+Near-miss events: None reported.
+
+--- SECTION 6: PERSONNEL SIGN-OFF ---
+
+Shift Incharge (Overman): Shri A.K. Verma — Signature: __________ — Time: 06:05
+Safety Representative present: No (not required for B night shift per shift roster).
+Handover to A Shift Incharge: Shri P.R. Dey — Time: 06:10 — Received: _______
+
+Key handover points communicated:
+(1) TP-2 chute repair — W-2026-1847 — must be completed before next B shift CHP operation.
+(2) PPE non-compliance for contractor crew — toolbox talk acknowledgement forms to be collected by contractor supervisor before deploying crew again.
+(3) Dumper D-14 at workshop — brake system repair required before return to service.
+
+--- END OF SHIFT REPORT ---

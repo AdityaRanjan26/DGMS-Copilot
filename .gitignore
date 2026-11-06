@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+next-dev.*.log
+
+# Environment variables & secrets (NEVER commit secrets)
+.env
+.env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+*.env
+!*.env.example
+
+# Python virtual environment & cache
+venv/
+.venv/
+env/
+backend/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Local SQLite databases (runtime state & credentials)
+backend/auth.db
+*.sqlite
+*.sqlite3
+
+# Benchmark / test output artifacts
+backend/benchmark_results.json
+
+# TypeScript build info
+*.tsbuildinfo
+
+# OS / Editor files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,194 @@
+---
+SOURCE_ID: CMR-2017
+TITLE: Coal Mines Regulations, 2017 — Selected Provisions on Safety, Ventilation, Machinery, and Haulage
+SOURCE_TYPE: Statutory Regulations
+PAGE_COUNT: 45
+PUBLICATION_DATE: 2017-11-28
+SYNTHETIC: false
+ISSUING_AUTHORITY: Ministry of Labour and Employment, Government of India
+---
+
+COAL MINES REGULATIONS, 2017
+(Published in Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i))
+[GSR 1449(E), dated 28th November, 2017]
+
+In exercise of the powers conferred by Section 57 and Section 58 of the Mines Act, 1952 (35 of 1952), the Central Government, after consultation with the Mining Industry, hereby makes the following regulations in supersession of the Coal Mines Regulations, 1957, except as respects things done or omitted to be done before such supersession.
+
+PART I — PRELIMINARY
+
+Regulation 1 — Short title and commencement
+(1) These regulations may be called the Coal Mines Regulations, 2017.
+(2) They shall come into force on the date of their publication in the Official Gazette.
+
+Regulation 2 — Application
+These regulations shall apply to all coal mines in India within the meaning of the Mines Act, 1952.
+
+Regulation 3 — Definitions
+In these regulations, unless the context otherwise requires:
+(1) "competent person" means a person who has received such training and has such practical experience and knowledge as to be capable of carrying out the duty assigned to him.
+(2) "working place" means any place in or about a mine at or in which any person is employed, including any roadway along which any person travels in connection with his work.
+(3) "belt conveyor" means a mechanical conveyor consisting of an endless belt running on rollers or pulleys for the transportation of coal or other mineral.
+(4) "district" means a group of underground working places served by the same main intake roadway.
+
+PART II — MANAGEMENT AND SUPERVISION
+
+Regulation 5 — Appointment of Managers
+(1) Every coal mine shall have a manager who shall hold a first-class certificate of competency under these regulations or any certificate recognised as equivalent thereto.
+(2) The manager shall take all necessary measures to ensure the proper safety of the mine and of all persons employed at the mine.
+(3) Where the output of a mine exceeds 1000 tonnes per day, the manager shall be assisted by one or more undermanagers, each holding at least a second-class certificate of competency.
+
+Regulation 6 — Manager's Responsibility
+(1) The manager of every coal mine shall be responsible for the safety of the mine, including the safety of persons employed in or about the mine.
+(2) The manager shall frame, post, and enforce rules for the safe conduct of all operations at the mine.
+
+Regulation 8 — Safety Officer
+(1) Every coal mine employing 500 or more persons shall have a Safety Officer appointed by the owner or agent.
+(2) The Safety Officer shall have no other duties that may conflict with his duties relating to safety.
+(3) The Safety Officer shall conduct periodic inspections of all parts of the mine for safety hazards, maintain records of inspections, and report findings to the Manager.
+
+PART IV — GENERAL SAFETY PROVISIONS
+
+Regulation 100 — General Provisions relating to Machinery
+(1) All machinery used in a coal mine shall be:
+(a) Of sound construction and adequate strength.
+(b) Maintained in a safe working condition.
+(c) Inspected by a competent person not less than once per week.
+(d) Fitted with adequate guards at all dangerous parts.
+(2) No person shall operate any machinery unless he is a competent person duly authorised by the manager to do so.
+(3) Before any maintenance or repair work is carried out on any machinery, the machinery shall be stopped and isolated from all sources of power.
+
+Regulation 101 — Guards and Fencing
+(1) Every shaft, well, incline, excavation and other dangerous opening or structure shall be adequately guarded or fenced.
+(2) All in-running nips at belt conveyors, crushers, rolls, and similar machinery shall be provided with adequate guards preventing access by persons.
+(3) Guards shall be of substantial construction, securely fixed, and not removable without the use of tools.
+
+Regulation 102 — Electrical Safety
+(1) All electrical equipment in or about a mine shall comply with the Electricity Act and rules made thereunder as applicable to mines.
+(2) No electrical equipment in an underground mine shall be operated unless it is:
+(a) Approved for use in coal mines by the competent authority.
+(b) Flame-proof certified where required by the flammable gas risk.
+(c) Maintained in accordance with manufacturer's specifications.
+
+PART V — CONVEYORS AND HAULAGE
+
+Regulation 105 — Belt Conveyors — General Requirements
+(1) Belt conveyors installed or to be installed in a coal mine shall comply with the following requirements:
+(a) The belt shall be of flame-resistant and antistatic type conforming to IS 1891 (Part 1) for underground use.
+(b) The drive station shall be located in a well-ventilated position in the intake airstream where practicable.
+(c) Adequate clearance shall be maintained between the moving belt and any fixed structure.
+(d) Adequate illumination shall be maintained along the full length of the conveyor.
+
+Regulation 106 — Belt Conveyor Safety Devices
+(1) Every belt conveyor shall be fitted with the following safety devices as applicable:
+(a) Emergency stop devices accessible from both sides of the belt at intervals not exceeding 30 metres.
+(b) A belt sway or belt alignment switch to stop the drive if the belt wanders excessively.
+(c) A zero speed or under-speed switch to stop the drive if the belt speed drops below the minimum operating speed.
+(d) Pull cord emergency stop running the full accessible length of the belt where the belt length exceeds 15 metres.
+(2) All safety devices shall be tested by a competent person before each production shift.
+
+Regulation 107 — Belt Conveyor Fire Precautions
+(1) Every belt conveyor shall be kept free of flammable accumulations including coal spillage, dust, grease, and oil.
+(2) Fire extinguishing equipment shall be provided at every drive station and at intervals of not more than 60 metres along the belt conveyor length.
+(3) Automatic fire suppression systems shall be fitted to all underground belt conveyors installed after the commencement of these regulations.
+
+Regulation 108 — Conveyor Belt Inspections
+(1) A competent person shall inspect every belt conveyor before the commencement of each shift of work. The inspection shall include checking:
+(a) All safety devices specified in Regulation 106.
+(b) Condition of the belt, including any tears, damage, or splice separation.
+(c) Belt alignment and take-up tension.
+(d) Condition of idler rollers.
+(e) Condition of guarding at drive, tail, and deflection pulleys.
+(f) Spillage and cleanliness below and around the belt.
+(2) Results of each inspection shall be recorded in the Belt Inspection Register which shall be countersigned by the responsible overman or undermanager at the end of the shift.
+
+Regulation 110 — Rope and Chain Haulages
+(1) All wire ropes used for haulage in mines shall be inspected by a competent person before each shift of work.
+(2) Wire ropes shall be discarded if the number of broken wires in any length of 6 rope diameters exceeds 10% of the total number of wires in the rope.
+(3) All haulage roads shall be provided with adequate lighting.
+
+PART VI — VENTILATION
+
+Regulation 155 — General Ventilation Requirements
+(1) In every underground coal mine, the owner, agent, or manager shall make provision for adequate ventilation of the mine.
+(2) Ventilation shall be maintained by one or more main mechanical fans, which shall be:
+(a) Installed on the surface.
+(b) Capable of producing the ventilation quantity required by these regulations.
+(c) Equipped with an approved recording device to show continuously the pressure, air quantity, and speed.
+
+Regulation 156 — Ventilation Officer
+(1) Every underground coal mine producing more than 1000 tonnes of coal per day shall appoint a ventilation officer who shall hold a first-class certificate of competency.
+(2) The ventilation officer shall be responsible for maintaining the mine's Ventilation Plan, conducting periodic ventilation surveys, and ensuring compliance with ventilation standards.
+
+Regulation 157 — Minimum Air Quantities
+(1) The amount of air to be circulated in underground mine workings shall be not less than:
+(a) 6 cubic metres per minute per person employed underground at any one time; or
+(b) such greater amount as may be required to maintain the quantities prescribed in Regulation 159;
+whichever is the greater.
+
+Regulation 158 — Maximum Methane Concentration
+(1) If the percentage of methane in the general body of air in any part of the mine exceeds 1.25%, work in that part shall be suspended and all persons therein shall be withdrawn.
+(2) If the percentage of methane at any face or working place exceeds 0.5%, the person in charge of the working place shall immediately stop the work, withdraw all persons from the area, and report to the overman.
+
+Regulation 159 — Air Quality Standards
+(1) The air in every part of a coal mine in which persons are employed shall:
+(a) Contain not less than 19% oxygen by volume.
+(b) Contain not more than 0.5% carbon dioxide by volume.
+(c) Contain not more than 1.25% methane by volume.
+(d) Contain not more than 50 ppm carbon monoxide.
+(e) Contain not more than 5 ppm hydrogen sulphide.
+(2) Where readings exceed these limits, immediate action shall be taken under the emergency ventilation procedure.
+
+Regulation 160 — Fan Maintenance and Inspection
+(1) Every main mechanical ventilating fan shall be:
+(a) Inspected by the fan attendant at the commencement of each shift.
+(b) Examined by the electrical or mechanical engineer responsible not less than once per week.
+(c) Overhauled not less than once per year.
+(2) Spare parts and standby provisions shall be maintained as to permit restoration of full ventilation within 4 hours of any fan failure.
+
+Regulation 161 — Ventilation Records
+(1) A record of all measurements of air quantity and quality shall be maintained in the Ventilation Register.
+(2) The register shall include the date, place, time, instruments used, and person making each measurement.
+(3) Measurements shall be taken not less than once per shift at all designated measurement stations.
+
+PART VII — EXPLOSIVES AND BLASTING
+
+Regulation 165 — General Requirements for Explosives
+(1) Only approved explosives may be used in coal mines. The use of unapproved explosives is prohibited.
+(2) Explosives shall be stored in approved magazines located away from mine workings.
+(3) The minimum amount of explosive necessary for the work shall be brought underground at any one time.
+
+Regulation 169 — Personal Protective Equipment — General
+(1) Suitable personal protective equipment shall be provided by the owner or agent for all persons who may be exposed to risk from:
+(a) Flying particles, splashing liquids, or dust.
+(b) Electrical hazards.
+(c) Excessive noise.
+(d) Falling objects.
+(e) Flammable or toxic substances.
+(2) PPE shall be maintained in good condition and replaced when damaged or worn out.
+(3) Persons shall wear PPE appropriate to the hazards to which they are exposed at all times while in the relevant hazardous area.
+
+Regulation 170 — Respirators and Dust Masks
+(1) Where airborne dust concentration exceeds the Threshold Limit Value (TLV) for coal dust (as defined by the Directorate General of Mines Safety), appropriate respiratory protection shall be provided and worn.
+(2) FFP2 (P2) rated dust masks shall be the minimum standard for coal mine dust protection. FFP3 (P3) rated masks shall be provided where silica-containing dust is present.
+
+PART VIII — RECORD KEEPING AND REPORTING
+
+Regulation 180 — Registers to be maintained
+(1) Every coal mine shall maintain the following registers:
+(a) Shift Inspection Register (separately for each working section and each piece of major equipment).
+(b) Fan Attendance Register.
+(c) Ventilation Register.
+(d) Belt Conveyor Inspection Register.
+(e) Accident and Dangerous Occurrence Register.
+(f) PPE Issue Register.
+(g) Training Register.
+(2) All registers shall be maintained in the format prescribed by the Chief Inspector of Mines.
+(3) Registers shall be available for inspection at all times by Mine Inspectors.
+
+Regulation 181 — Countersigning of Registers
+(1) All shift inspection registers shall be countersigned by the responsible overman or undermanager at the end of each shift.
+(2) The mine manager shall countersign all major inspection registers not less than once per week.
+
+Regulation 185 — Annual Returns
+(1) The owner, agent, or manager of every coal mine shall submit to the Regional Controller of Mines an annual return in the prescribed form within 30 days of the end of each calendar year.
+(2) The annual return shall include output, employment statistics, accident statistics, and compliance status.

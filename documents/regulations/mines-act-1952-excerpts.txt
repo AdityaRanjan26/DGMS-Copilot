@@ -1,0 +1,137 @@
+---
+SOURCE_ID: MINES-ACT-1952
+TITLE: The Mines Act, 1952 — Selected Safety Provisions (Sections 19–45)
+SOURCE_TYPE: Central Legislation
+PAGE_COUNT: 28
+PUBLICATION_DATE: 1952-03-15
+SYNTHETIC: false
+ISSUING_AUTHORITY: Parliament of India — Ministry of Labour and Employment
+---
+
+THE MINES ACT, 1952
+(Act No. 35 of 1952)
+[As amended up to date]
+
+An Act to amend and consolidate the law relating to the regulation of labour and safety in mines.
+
+Be it enacted by Parliament as follows:—
+
+CHAPTER I — PRELIMINARY
+
+Section 1 — Short title, extent and commencement
+(1) This Act may be called the Mines Act, 1952.
+(2) It extends to the whole of India.
+(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf.
+
+Section 2 — Definitions
+In this Act, unless the context otherwise requires:
+(a) "agent", when used in relation to a mine, means every person, whether called a general agent, manager, engineer, or by any other name, who, acting or purporting to act on behalf of the owner, takes part in the management, control, supervision or direction of a mine.
+(b) "coal mine" means a mine in which there exists one or more seams of coal.
+(c) "mine" means any excavation where any operation for the purpose of searching for or obtaining minerals has been or is being carried on, and includes all works, machinery, tramways and sidings whether above or below ground, in or adjacent to or belonging to a mine.
+(d) "owner", when used in relation to a mine, means any person who is the immediate proprietor or lessee or occupier of the mine or of any part thereof, but does not include a person who merely receives a royalty, rent or fine from a mine, or is merely the owner of the surface of the soil.
+
+CHAPTER III — HEALTH AND SAFETY
+
+Section 19 — Precautions against inrush of water or gas
+(1) No owner, agent or manager shall cause or permit to be worked any part of a mine so near to any part of another mine or excavation as to cause danger of an inrush of water or gas unless satisfactory precautions have been taken to prevent such inrush.
+
+Section 21 — Safety Officers
+(1) In every mine wherein five hundred or more persons are ordinarily employed, the owner, agent or manager shall appoint a person (hereinafter referred to as "safety officer") having such qualifications and performing such duties as may be prescribed.
+
+Section 22 — Provisions in case of dangerous occurrence or threatened danger
+(1) Where in any mine there occurs any accident (not necessarily fatal) due to explosion, inflammable or noxious gas, influx of water, fire, or any other cause, the manager of such mine shall forthwith inform the Chief Inspector or any Inspector and thereafter report to the Chief Inspector in such form and within such time as may be prescribed.
+(2) Every manager of a mine shall, within the time and in the manner prescribed, send to the Chief Inspector a report of every dangerous occurrence in the mine and of every accident causing bodily injury to any person employed in or about the mine.
+
+Section 23 — General duty of persons employed in mines
+(1) Every person employed in a mine shall comply with the requirements of this Act and of the regulations, rules and bye-laws made thereunder so far as the same relate to his duties or otherwise affect him, and shall not render inoperative or interfere with any safety device, appliance or equipment used or provided in pursuance of this Act or of any regulation, rule, or bye-law thereunder.
+(2) Any person who contravenes the provisions of sub-section (1) shall be punishable with fine which may extend to ten thousand rupees.
+
+Section 24 — Prohibition of employment near dangerous machinery
+(1) No person shall be employed or permitted to work in any part of a mine or on the surface thereof where:
+(a) the machinery, appliance, or plant is such that to work in the vicinity thereof would be dangerous; unless such machinery, appliance, or plant has been adequately guarded or rendered safe;
+(b) any dangerous gas, vapour or fume, or any danger of inrush of water or other liquid, has been ascertained, unless effective measures have been taken to render such place of work safe.
+(2) No woman or young person shall be employed or permitted to work at any part of a mine which is more than 50 metres below the superjacent surface.
+
+Section 25 — Precautions against dust
+(1) In every mine wherein more than ten persons are employed underground, effective measures shall be taken to prevent the accumulation of dust, or to render such dust harmless.
+(2) Such measures shall include, where reasonably practicable, the suppression of dust at the point of origin by application of water or by other means, the ventilation of all working places, and the use of water infusion in the case of coal mining.
+
+Section 26 — Drinking water
+(1) In every mine, provision shall be made for adequate supply of wholesome drinking water for all persons employed therein.
+
+Section 27 — Latrines and urinals
+(1) In every mine, provision shall be made for sufficient number of latrines and urinals of prescribed types, conveniently situated and maintained in a clean and sanitary condition, for all persons employed therein.
+
+Section 28 — Shelters and restrooms
+(1) Adequate shelters or restrooms shall be provided and maintained for the use of persons employed in any mine.
+
+Section 29 — Medical appliances
+(1) In every mine wherein not less than fifty persons are employed, there shall be provided and maintained, in good condition, a sufficient number of stretchers and first-aid boxes or cupboards, equipped with such contents as may be prescribed.
+(2) In every mine wherein not less than one thousand persons are employed, there shall be maintained on the mine premises and in the vicinity thereof an ambulance or first-aid post.
+
+Section 30 — Notice of accidents
+(1) Whenever there occurs in or about a mine —
+(a) an accident causing loss of life or bodily injury to any person; or
+(b) a dangerous occurrence, whether causing bodily injury or not,
+the manager of the mine shall give notice thereof to such authority, in such form, and within such time as may be prescribed.
+
+Section 31 — Inquiry into accidents
+(1) Where any accident occurs in or about a mine causing loss of life, the Chief Inspector may, and if so required by the Central Government, shall cause an inquiry to be held into the causes of and circumstances attending the accident.
+
+Section 33 — Prohibition of employment of persons below certain age
+(1) No person below the age of eighteen years shall be employed or permitted to work in any mine.
+
+Section 36 — Ventilation
+(1) In every mine, effective measures shall be taken to provide and maintain adequate ventilation in every part of the mine in which persons are employed, so as to dilute and render harmless and inoffensive as far as practicable all noxious gases, heat, and dust, and to provide an adequate supply of air containing sufficient oxygen, and to prevent the formation or accumulation of a dangerous mixture of inflammable gas.
+(2) In every mine in which, by reason of the nature of the minerals worked or of the nature or condition of the strata, there is reasonable apprehension of the presence or sudden issue of any inflammable or noxious gas, special precautions shall be taken so far as may be reasonably practicable to prevent the formation or accumulation of a dangerous mixture.
+(3) In every mine, if the amount of methane in the general body of air in any part of the mine exceeds one and one-quarter per centum (1.25%) by volume, work shall be suspended in such part and all persons employed therein shall be withdrawn therefrom.
+
+Section 37 — Precautions with regard to inflammable and noxious gases
+(1) In every mine in which inflammable or noxious gases are given off, effective precautions shall be taken to detect, dilute, or render harmless all such gases, including regular testing as specified in regulations.
+(2) No naked light or any device capable of producing a flame shall be used in any mine or part of a mine in which inflammable gas is given off or might reasonably be expected to be given off, unless the inflammable gas is of such nature or amount that it cannot form an inflammable or explosive mixture.
+
+Section 38 — Precautions against fire
+(1) Adequate precautions shall be taken in every mine against the outbreak of fire.
+(2) There shall be provided and maintained in good condition at every mine such appliances as may be prescribed for the extinguishment of fire.
+
+Section 40 — Special rules for management and working of mines
+(1) The owner, agent or manager of every mine shall cause to be prepared such special rules as may be expedient for the management of the mine and shall comply with such rules. The special rules shall be submitted to the Chief Inspector and shall be binding on all persons employed in or about the mine.
+
+Section 43 — General duty to comply with regulations, etc.
+(1) Every owner, agent and manager of a mine shall take all reasonable and practicable measures to ensure the proper safety, health, and welfare of all persons employed at the mine. This general duty is additional to and not in derogation of any specific requirement under this Act or the regulations made thereunder.
+
+Section 45 — Inspection of mines by Inspectors
+(1) Every Inspector of Mines shall have power to enter, inspect, and examine any mine or any part thereof at any time during the day or night when any persons are employed therein.
+(2) An Inspector may, for the purposes of this Act, require the production of any register, record or other document kept in pursuance of this Act or of any regulation or rule made thereunder, and may take copies thereof or of any entry in any such document.
+
+Section 57 — Power to make regulations
+(1) The Central Government may, by notification in the Official Gazette, make regulations for the purpose of carrying into effect the provisions of this Act. Such regulations may provide for all or any of the following matters, namely:
+(a) The qualifications, training, and certificates of competency of persons employed in mines.
+(b) The equipment and appliances to be provided in mines.
+(c) The inspection and testing of machinery and equipment.
+(d) The measures to be taken to prevent accidents.
+(e) The keeping of registers, returns, reports and other documents.
+
+Section 58 — Penalties
+(1) Any owner, agent or manager who fails to comply with any of the provisions of this Act or of any regulation, rule or bye-law or order made thereunder, or who wilfully obstructs any Inspector in the exercise of his powers and duties under this Act, shall be guilty of an offence and shall, on conviction:
+(a) for a first offence, be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to fifty thousand rupees, or with both; and
+(b) for any subsequent offence, be punishable with imprisonment for a term which may extend to three years, or with fine which may extend to one lakh rupees, or with both.
+
+FOURTH SCHEDULE — Notifiable Accidents and Dangerous Occurrences
+(See Section 30)
+
+1. NOTIFIABLE ACCIDENTS
+The following accidents shall be notified immediately to the Chief Inspector:
+(a) Any accident causing loss of life.
+(b) Any accident causing serious bodily injury to any person.
+(c) Any accident causing injury to three or more persons.
+
+2. DANGEROUS OCCURRENCES
+The following dangerous occurrences shall be notified within 2 hours:
+(a) Explosion of gas, dust, or vapour.
+(b) Accidental inrush of water.
+(c) Outbreak of fire in a mine.
+(d) Blowout from any seam.
+(e) Any premature explosion during blasting operations.
+(f) Collapse or failure of main roof support in underground workings.
+(g) Failure of haulage rope causing runaway.

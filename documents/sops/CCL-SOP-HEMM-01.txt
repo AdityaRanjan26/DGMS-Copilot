@@ -1,0 +1,23 @@
+---
+SOURCE_ID: CCL-SOP-HEMM-01
+TITLE: Standard Operating Procedure for Dumper Operations in Open Cast Mines
+SOURCE_TYPE: Standard Operating Procedure
+PAGE_COUNT: 4
+PUBLICATION_DATE: 2023-05-10
+SYNTHETIC: true
+ISSUING_AUTHORITY: Central Coalfields Limited (CCL)
+---
+
+1. Objective: Standardize safe dumper operation procedures.
+2. Pre-operation checks:
+   - Check engine oil, coolant, and transmission fluid levels.
+   - Ensure tires are properly inflated and have no visible damage.
+   - Verify that the reverse alarm and camera are functioning.
+3. Loading:
+   - Wait for the excavator operator's signal before approaching.
+   - Do not overload the dumper.
+4. Dumping:
+   - Approach the dump edge perpendicularly.
+   - Maintain a distance of at least 3 meters from the crest.
+   - Wait for the spotter's signal to dump.
+5. Emergency: In case of brake failure, steer the dumper towards the runaway ramp or a pile of loose material.

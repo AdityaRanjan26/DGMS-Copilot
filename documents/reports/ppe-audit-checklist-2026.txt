@@ -1,0 +1,116 @@
+---
+SOURCE_ID: PPE-AUDIT-OPS-25
+TITLE: PPE Compliance Audit Checklist and Inspection Record — Karo OCP and Amlo Project
+SOURCE_TYPE: Inspection Checklist
+PAGE_COUNT: 4
+PUBLICATION_DATE: 2026-06-19
+SYNTHETIC: true
+ISSUING_AUTHORITY: Safety Department, Central Coalfields Limited Area HQ
+SYNTHETIC_NOTE: This document is a realistic synthetic audit checklist created for the DGMS-Copilot pilot demonstration. Replace with actual CCL audit records before production deployment.
+---
+
+CENTRAL COALFIELDS LIMITED
+SAFETY DEPARTMENT — AREA HEADQUARTERS
+
+PPE COMPLIANCE AUDIT CHECKLIST AND INSPECTION RECORD
+
+Audit Reference: PPE-AUDIT-OPS-25
+Mine(s) Audited: Karo OCP and Amlo Project
+Audit Date: 19 June 2026
+Safety Officer Conducting Audit: Shri R.N. Gupta, Safety Officer (Grade II)
+Regulation Reference: DGMS Technical Note No. 09 of 2023; CMR 2017 Regulation 169-170
+
+PART A — SCOPE OF AUDIT
+
+This audit covers PPE compliance in the following zones:
+(a) Main haul road and vehicle movement zones at Karo OCP.
+(b) CHP building and transfer point areas at Karo OCP.
+(c) Workshop and maintenance areas at both Karo OCP and Amlo Project.
+(d) Explosives handling and blasting preparation zones at Karo OCP.
+
+PART B — AUDIT FINDINGS
+
+Checklist Item 1 — Safety Helmets (All Zones)
+Compliance standard: Every person beyond the entry gate shall wear a safety helmet conforming to IS 2925 with chin strap fastened.
+Persons observed: 34 (Karo OCP), 18 (Amlo Project).
+Compliant: 33 (Karo OCP), 18 (Amlo Project).
+Non-compliant: 1 (Karo OCP) — Departmental worker at stockyard boundary, helmet present but not worn (carried in hand).
+Action: Worker directed to wear helmet. Verbal warning recorded in audit register.
+Overall compliance rate: 98.1%.
+
+Checklist Item 2 — Reflective Jackets (Haul Road and Vehicle Zones)
+Compliance standard: All persons in haul road and heavy vehicle zones must wear IS 15809 Class 2 minimum high-visibility reflective jacket.
+Persons observed in vehicle zones: 22 (Karo OCP), 12 (Amlo Project).
+Non-compliant: 0.
+Overall compliance rate: 100%.
+
+Checklist Item 3 — Safety Footwear (All Zones)
+Compliance standard: Steel-toe, steel-midsole safety boots conforming to IS 1989 Part I.
+Persons observed: 34 (Karo OCP), 18 (Amlo Project).
+Non-compliant: 1 (Karo OCP) — Contract worker wearing standard leather shoes, not safety footwear.
+Action: Worker withdrawn from site. Contractor supervisor contacted. Worker not permitted to return without compliant footwear. Non-compliance recorded in PPE audit register.
+Overall compliance rate: 98.1%.
+
+Checklist Item 4 — Dust Masks (CHP, Crusher, Haul Road Maintenance)
+Compliance standard: FFP2 minimum dust respirator required during CHP operations, crusher operations, and dry haul road maintenance.
+Persons observed in dust-exposure zones: 11 (CHP and Transfer Point area, Karo OCP).
+Non-compliant: 2 — Two contractual workers at CHP Transfer Point 2 (TP-2) observed without dust masks during dry maintenance operations. (Workers: Contractor Cards C-441 and C-507.)
+DGMS reference: DGMS Technical Note No. 09 of 2023, Section 2.2(d): Supervisors shall ensure hard hats, reflective jackets, safety shoes, eye protection, and dust masks are verified before hazardous task allocation. These workers entered TP-2 area without supervisor PPE verification.
+Action: Workers immediately stopped. Dust masks issued from emergency stock (2 × FFP2 masks issued, recorded in PPE Issue Register Ref: PI-2026-188 and PI-2026-189). Toolbox talk conducted. Contractor supervisor notified.
+Root cause: Contractor supervisor had not conducted pre-task PPE verification per DGMS-TECH-NOTE-2023-09 Section 3.1. The same contractor crew was noted without dust masks on the previous B shift (B shift 21 June 2026 report).
+Recommended closure: (1) Repeat non-compliance notice issued to contractor. (2) Enhanced monitoring of contractor crew PPE compliance for next 5 shifts. (3) Safety Officer to co-verify PPE for contractor crew before each shift in the CHP zone for next 2 weeks.
+Overall compliance rate for dust masks in applicable zones: 81.8% (9 of 11 compliant). Below the 90% threshold — triggers enhanced monitoring per CMR 2017 Regulation 8(3).
+
+Checklist Item 5 — Eye and Face Protection (Grinding, Welding, Crusher)
+Compliance standard: Safety goggles or face shield during grinding, welding, and crusher area maintenance.
+Persons observed: 6 (workshop maintenance, both sites).
+Non-compliant: 0.
+Overall compliance rate: 100%.
+
+Checklist Item 6 — Hearing Protection (Crusher and Drill Operations)
+Compliance standard: SNR 25 dB minimum hearing protection during crusher operation and drilling.
+Persons observed in high-noise zones: 5.
+Non-compliant: 0.
+Overall compliance rate: 100%.
+
+Checklist Item 7 — Reflective Jacket and Helmet Compliance at Haul Road, Stockyard, CHP, and Workshop Zones
+Persons entering haul road, stockyard, CHP, and workshop zones must be observed with helmet, reflective jacket, and safety footwear.
+Combined assessment for Checklist Item 7:
+Total persons observed in Item 7 zones: 42.
+Fully compliant (helmet + reflective jacket + safety footwear): 39.
+Non-compliant on one or more items: 3 (Stockyard helmet carrier, CHP dust masks ×2).
+Item 7 compliance rate: 92.9%.
+Note: The two CHP dust mask non-compliance instances (Contractor C-441 and C-507) are also counted in Item 7, as dust masks are required PPE in the CHP zone. These are the same two workers as in Item 4 and the Karo OCP B shift report for 22 June 2026.
+Recommended corrective action per Item 7 findings: Contractor management instruction to conduct toolbox talk with all contractor crew covering PPE requirements for each specific work zone before their first entry each shift.
+
+Checklist Item 8 — PPE Storage and Condition
+Review of PPE storage at main stores and emergency stocks at CHP building:
+Storage conditions: Satisfactory.
+Helmet shelf life check: 3 helmets near 3-year service limit — flagged for replacement within 30 days.
+Respirator stock: Adequate (>200 FFP2 units in stock).
+Emergency stock at CHP building: 20 FFP2 masks — replenished from main store (2 issued per Item 4 above).
+
+PART C — OVERALL AUDIT SUMMARY
+
+Zone / Category             | Compliance Rate | Status
+Helmets (all persons)       | 98.1%           | Acceptable (above 95%)
+Reflective jackets          | 100%            | Fully compliant
+Safety footwear             | 98.1%           | Acceptable
+Dust masks (CHP/Crusher)    | 81.8%           | BELOW THRESHOLD — Enhanced monitoring
+Eye/face protection         | 100%            | Fully compliant
+Hearing protection          | 100%            | Fully compliant
+Combined Item 7 (HR/SY/CHP) | 92.9%           | Marginal — monitoring required
+
+Overall site PPE compliance rating: 95.2%
+Rating: Acceptable (target >90%), but dust mask non-compliance requires targeted corrective action.
+
+PART D — CORRECTIVE ACTION SUMMARY AND DEADLINES
+
+CA-1: Contractor management letter re: PPE supervisor verification failure — Issued by Safety Officer 19 June 2026. Contractor acknowledgement required by 21 June 2026.
+CA-2: Enhanced monitoring of Contractor crew (C-441, C-507, and colleagues) for 10 consecutive shifts — Safety Officer to log compliance each shift.
+CA-3: Replacement of 3 helmets approaching service limit — by 19 July 2026.
+CA-4: Formal toolbox talk for all contractual workers on PPE requirements — by 22 June 2026.
+
+Audit conducted and report prepared by:
+Safety Officer: Shri R.N. Gupta — Date: 19 June 2026 — Signature: __________
+Reviewed by Mine Manager: Shri R.K. Mishra — Date: 19 June 2026 — Signature: __________

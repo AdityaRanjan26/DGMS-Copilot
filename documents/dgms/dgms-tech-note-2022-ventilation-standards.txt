@@ -1,0 +1,171 @@
+---
+SOURCE_ID: DGMS-TECH-NOTE-2022-VT
+TITLE: Ventilation Standards, Measurement Procedures, and Fan Maintenance Requirements for Coal Mines
+SOURCE_TYPE: DGMS Technical Note
+PAGE_COUNT: 10
+PUBLICATION_DATE: 2022-07-14
+SYNTHETIC: false
+ISSUING_AUTHORITY: Directorate General of Mines Safety, Dhanbad
+---
+
+GOVERNMENT OF INDIA
+MINISTRY OF LABOUR AND EMPLOYMENT
+DIRECTORATE GENERAL OF MINES SAFETY
+Iron Side Building, Hirapur, Dhanbad – 826 001 (Jharkhand)
+
+TECHNICAL NOTE NO. DGMS (Tech) Note No. VT-2022
+Date: 14 July 2022
+
+SUBJECT: Ventilation Standards, Measurement Procedures, Fan Attendant Responsibilities, and Record Keeping Requirements for Underground Coal Mines
+
+1. INTRODUCTION
+
+1.1 Adequate ventilation in underground coal workings is the single most critical safety requirement for protecting workers from the hazards of methane accumulation, carbon monoxide, dust concentration, oxygen depletion, and excessive heat. This Technical Note consolidates the requirements under the Coal Mines Regulations, 2017 (CMR 2017), specifically Regulations 105–159, and provides operational guidance for mine managers, ventilation engineers, and supervisors.
+
+1.2 This Note applies to all underground coal mines operating under the Mines Act, 1952.
+
+2. MINIMUM VENTILATION QUANTITY STANDARDS
+
+2.1 District and Panel Ventilation
+The following minimum air quantities shall be maintained in active underground workings:
+(a) Active development districts: not less than 60 cubic metres per minute (m³/min) per working place, or as determined by gas and dust measurements, whichever is greater.
+(b) Depillaring panels: not less than 300 m³/min in the intake to each panel.
+(c) Main return airways: not less than 150 m³/min per return roadway.
+
+2.2 Methane and Gas Threshold Limits
+Ventilation shall be maintained to ensure:
+(a) Methane (CH4): not exceeding 1.25% by volume in any part of the working, and below 0.5% at the face of every working place.
+(b) Carbon monoxide (CO): not exceeding 50 ppm (parts per million) in the general body of air in any working place.
+(c) Oxygen (O2): not less than 19% by volume.
+(d) Hydrogen sulphide (H2S): not exceeding 5 ppm.
+(e) Carbon dioxide (CO2): not exceeding 0.5% by volume.
+If any reading exceeds these thresholds, the affected area shall be evacuated immediately and the Mine Manager informed without delay.
+
+2.3 Velocity Requirements
+Air velocity in every main roadway shall be maintained at not less than 0.25 metres per second. In working places where explosive atmosphere hazard exists, velocity shall be not less than 0.5 metres per second. Maximum velocity in any working place shall not exceed 4 metres per second to prevent excessive dust entrainment.
+
+3. PRE-SHIFT VENTILATION VERIFICATION
+
+3.1 No deployment shall be made in a working district unless latest air quantity and fan status are recorded in the shift register. This is an absolute requirement under Regulation 119 of CMR 2017.
+
+3.2 The fan attendant or overman responsible for ventilation shall, before any worker is permitted to enter the working section:
+(a) Confirm that the main fan is operating within normal parameters (fan speed, pressure differential, and motor amperage within tolerance).
+(b) Confirm that all auxiliary fans serving the section are operating and that auxiliary ventilation ducts are intact and correctly positioned.
+(c) Measure or obtain the air quantity reading at the intake to each working district that will be active in the upcoming shift.
+(d) Record all readings in the Ventilation Register with time of measurement.
+
+3.3 Timing of Pre-Shift Verification
+The ventilation verification under Clause 3.2 must be completed before workers descend or before they are permitted to enter the working section. If a stoppage in fan operation exceeding 30 minutes has occurred during the previous shift, the working place shall be examined and found safe before workers re-enter.
+
+3.4 Post-Stoppage Re-Verification
+If the main fan or any auxiliary fan stops for more than 30 minutes, no person shall re-enter the affected working until:
+(a) The fan has been restarted.
+(b) Ventilation quantities have been re-measured and found to comply with Clause 2.1.
+(c) Gas readings at the face have been taken and found within limits under Clause 2.2.
+(d) Re-entry has been authorised by the Undermanager or Mine Manager.
+
+4. VENTILATION MEASUREMENT PROCEDURES
+
+4.1 Required Instruments
+Air quantity measurements shall be carried out using:
+(a) Vane anemometer (mechanical or electronic) regularly calibrated not less than once per year.
+(b) Velometer (Pitot tube and manometer) for high-velocity measurements.
+(c) Multi-gas detector (minimum CO, CH4, O2 readings) for gas analysis.
+
+4.2 Measurement Locations
+Measurements shall be taken at:
+(a) Intake to each active development district — before first entry per shift.
+(b) Return from each active working place — not less than once per shift.
+(c) Across the main fan — to establish quantity and pressure differential — not less than once per week.
+(d) At all measurement stations designated in the mine's Ventilation Plan.
+
+4.3 Measurement Technique
+For anemometer measurements:
+(a) The anemometer traverse shall cover the full cross-sectional area of the airway.
+(b) The traverse shall be conducted in not less than 3 horizontal sweeps for roadways up to 4 metres wide, and 4 or more sweeps for wider roadways.
+(c) The area of the measuring cross-section shall be calculated from actual measurements taken at the measuring point.
+(d) Air quantity (Q) = measured velocity (V, m/s) × cross-sectional area (A, m²).
+
+5. FAN ATTENDANT DUTIES AND RESPONSIBILITIES
+
+5.1 Appointment and Qualifications
+Every coal mine operating an underground ventilation system shall appoint a competent fan attendant for each operating shift. The fan attendant shall:
+(a) Hold a valid fan attendant certificate of competency under the CMR 2017.
+(b) Be familiar with the mine's Ventilation Plan and the location of all measurement stations.
+(c) Know the emergency procedures for fan failure.
+
+5.2 Shift Duties
+The fan attendant shall, on each shift:
+(a) Attend the fan station at the commencement of shift and check:
+    (i) Fan speed (RPM) against operating specification.
+    (ii) Fan motor amperage and temperature.
+    (iii) Bearing temperatures on fan and motor.
+    (iv) Any unusual noise or vibration.
+    (v) Fan door and fan drift condition.
+(b) Record all readings in the Fan Attendance Register at commencement of shift, mid-shift, and end of shift.
+(c) Report any anomaly immediately to the Overman or Undermanager.
+
+5.3 Emergency Response
+In the event of fan failure, the fan attendant shall:
+(a) Immediately inform the control room or Undermanager.
+(b) Attempt restart only after authorisation from the Overman.
+(c) Record the time of stoppage and duration in the register.
+(d) Not permit workers to enter the affected section until fan operation is restored and verified per Clause 3.4.
+
+6. AUXILIARY VENTILATION AND FORCING/EXHAUSTING SYSTEMS
+
+6.1 Where auxiliary fans are used to ventilate development headings, the auxiliary fan shall be:
+(a) Positioned in fresh air, not less than 10 metres from the return of the working place being ventilated.
+(b) Of adequate capacity to deliver the minimum air quantity to the face.
+(c) Provided with an anti-recirculation device.
+
+6.2 Auxiliary ventilation ducts shall be:
+(a) Inspected for leaks and damage before each shift.
+(b) Maintained to minimise leakage — duct efficiency shall not fall below 80%.
+(c) Extended to within 5 metres of the working face in development headings.
+
+7. VENTILATION PLAN REQUIREMENTS
+
+7.1 Every coal mine shall maintain an approved Ventilation Plan showing:
+(a) Direction and quantity of air circulation at all measurement stations.
+(b) Location of all fans, stoppings, doors, and air crossings.
+(c) Location of gas measurement stations and fire detection points.
+
+7.2 The Ventilation Plan shall be updated not less than once per quarter, or whenever significant changes to workings occur.
+
+7.3 The Ventilation Plan shall be approved by the Mine Manager and a copy made available to the Inspector of Mines.
+
+8. RECORD KEEPING
+
+8.1 Ventilation Register
+A Ventilation Register shall be maintained at each underground mine recording:
+(a) Date and shift.
+(b) Time of each measurement.
+(c) Location (measurement station identifier).
+(d) Instrument used and calibration date.
+(e) Measured velocity, cross-section, and calculated air quantity.
+(f) Gas readings (CH4, CO, O2 at each measurement station).
+(g) Name and signature of person taking measurements.
+(h) Fan attendant signature confirming fan status.
+(i) Overman or Undermanager countersignature.
+
+8.2 Fan Attendance Register
+A separate Fan Attendance Register shall record, for each shift:
+(a) Fan speed, motor amperage, bearing temperatures, and any abnormality observed.
+(b) Duration of any fan stoppage.
+(c) Fan attendant's name and signature.
+
+8.3 Retention
+All ventilation records shall be retained for not less than 12 months and produced for inspection by DGMS Officers on demand.
+
+9. COMPLIANCE AND INSPECTION
+
+9.1 The Mine Manager shall review and countersign ventilation records not less than once per week.
+
+9.2 The Ventilation Officer, where appointed, shall audit ventilation measurements and fan records not less than once per month.
+
+9.3 Non-compliance with minimum ventilation standards is a serious contravention under the Mines Act and Coal Mines Regulations and may result in closure of the affected working section by the Inspector of Mines.
+
+(V. Shankar, IRS)
+Director General of Mines Safety
+Dhanbad, 14 July 2022

@@ -1,0 +1,18 @@
+---
+SOURCE_ID: DGMS-CIR-2024-01
+TITLE: Guidelines for Operation of Heavy Earth Moving Machinery (HEMM)
+SOURCE_TYPE: DGMS Circular
+PAGE_COUNT: 5
+PUBLICATION_DATE: 2024-01-15
+SYNTHETIC: true
+ISSUING_AUTHORITY: Directorate General of Mines Safety, Dhanbad
+---
+
+1. Purpose: To ensure safe operation of HEMM in open cast mines.
+2. Scope: Applies to all dumpers, excavators, dozers, and graders.
+3. Guidelines:
+   3.1. Pre-shift inspection is mandatory. Brakes, steering, and lights must be checked.
+   3.2. Maximum speed limit for dumpers on haul roads is 30 km/h. Near loading/unloading points, it is restricted to 15 km/h.
+   3.3. Reverse horns and proximity sensors are mandatory for all HEMM.
+   3.4. Dust suppression measures, including water sprinkling, must be strictly enforced on all haul roads.
+4. Compliance: Non-compliance will result in immediate suspension of operations.

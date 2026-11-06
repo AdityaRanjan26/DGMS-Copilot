@@ -1,0 +1,164 @@
+---
+SOURCE_ID: CCL-SOP-VT-041
+TITLE: Ventilation Quantity Verification and Auxiliary Fan Log Procedure
+SOURCE_TYPE: Mine SOP
+PAGE_COUNT: 6
+PUBLICATION_DATE: 2025-01-06
+SYNTHETIC: true
+ISSUING_AUTHORITY: Mine Manager Office, Central Coalfields Limited
+SYNTHETIC_NOTE: This document is a realistic synthetic SOP created for the DGMS-Copilot pilot demonstration. It reflects standard CCL ventilation procedure formats but does not represent an actual issued CCL document. Replace with the actual CCL SOP before production deployment.
+---
+
+CENTRAL COALFIELDS LIMITED
+A Subsidiary of Coal India Limited
+
+STANDARD OPERATING PROCEDURE
+
+Document No.: CCL-SOP-VT-041
+Title: Ventilation Quantity Verification and Auxiliary Fan Log Procedure
+Revision: 03
+Effective Date: 06 January 2025
+Review Due: 06 January 2027
+
+Approved by: Shri B.K. Sharma, General Manager (Mining)
+Document Custodian: Ventilation Officer, Area HQ
+
+--- CONTROLLED COPY — DO NOT REPRODUCE WITHOUT AUTHORISATION ---
+
+1. PURPOSE AND SCOPE
+
+1.1 Purpose
+This Standard Operating Procedure (SOP) establishes the mandatory verification steps for ventilation quantity measurement and auxiliary fan logging at underground workings of Central Coalfields Limited (CCL) mines.
+
+1.2 Scope
+This SOP applies to all underground coal mines operated by CCL, including all development headings, depillaring panels, fan drifts, and associated underground workings. It applies to all Mining Sirdars, Overmen, Fan Attendants, and Undermanagers involved in pre-shift ventilation verification.
+
+1.3 Regulatory Basis
+This SOP is issued in compliance with:
+(a) Section 36 of the Mines Act, 1952 — Ventilation.
+(b) Regulations 155–161 of the Coal Mines Regulations, 2017.
+(c) DGMS Technical Note on Ventilation Standards (DGMS-TECH-NOTE-2022-VT).
+
+2. DEFINITIONS
+
+2.1 "Pre-shift ventilation check" means the complete set of ventilation and fan status verifications that must be completed before any worker is permitted to enter the working section for that shift.
+
+2.2 "Working district" means a group of underground workings (faces, headings, cross-cuts) served by the same main intake roadway.
+
+2.3 "Auxiliary fan" means a secondary fan used to extend ventilation from the main airway into a development heading or other area with insufficient natural ventilation.
+
+2.4 "Air quantity" means the volume of air passing through a given cross-section per unit time, expressed in cubic metres per minute (m³/min), calculated as: Q = V × A, where V is measured velocity in m/s and A is cross-sectional area in m².
+
+3. PROCEDURE
+
+Section 3.1 — Pre-Shift Ventilation Verification (MANDATORY BEFORE WORKER DEPLOYMENT)
+
+Ventilation measurement shall be recorded before start of shift and after any stoppage exceeding thirty minutes in active development districts. This is a non-negotiable safety requirement. No worker shall descend or enter the working section until all steps in Section 3.1 are completed and documented.
+
+Step 1 — Fan Attendant Confirmation (Time: T-60 minutes before shift start)
+The Fan Attendant shall:
+(a) Arrive at the main fan station not less than 60 minutes before the shift commencement time.
+(b) Check and record in the Fan Attendance Register:
+    (i) Fan speed (RPM) — compare against specified operating speed.
+    (ii) Fan motor current (amperes) — compare against normal operating range.
+    (iii) Fan pressure differential (Pa or mmWG) — compare against design pressure.
+    (iv) Bearing temperature at all bearing points — shall not exceed 60°C.
+    (v) Any unusual noise, vibration, or mechanical condition.
+(c) Confirm operation of all auxiliary fans in the section through physical inspection or telephone communication with the Outbye End.
+(d) Record readings in the Fan Attendance Register and sign.
+
+Step 2 — Air Quantity Measurement (Time: T-45 to T-30 minutes before shift start)
+The Mining Sirdar or Overman shall measure air quantities at:
+(a) The main intake to each working district that will be active in the upcoming shift.
+(b) At not less than one measurement station per active development heading.
+
+Measurement shall use a calibrated vane anemometer. The procedure is:
+(i) Measure the cross-sectional area of the airway at the measurement point (width × height, accounting for any obstruction).
+(ii) Traverse the anemometer across the full cross-section in not less than 3 horizontal sweeps.
+(iii) Record the average velocity (m/s) and calculated air quantity (m³/min) in the Ventilation Register.
+(iv) Check gas readings (CH4, CO, O2) at the measurement point using a calibrated multi-gas detector.
+
+Step 3 — Review Against Minimum Standards
+The Overman or Undermanager shall compare measured quantities against:
+(a) Minimum intake air quantity for the district (per Ventilation Plan — not less than 60 m³/min per active working place, or as stated in the mine's Ventilation Plan, whichever is greater).
+(b) Maximum methane concentration: 0.5% at face; 1.25% in general body.
+(c) Minimum oxygen: 19%.
+(d) Maximum CO: 50 ppm.
+
+If any measurement fails, worker deployment in the affected district is PROHIBITED until remediated per Section 5 (Emergency Procedure).
+
+Step 4 — Ventilation Register Entry and Sign-Off
+The Overman shall:
+(a) Complete all fields in the Ventilation Register for each measurement station.
+(b) Sign the register.
+(c) Present the register to the Undermanager for countersignature.
+(d) Receive written authorisation from the Undermanager confirming the section is safe to deploy workers.
+
+Section 3.2 — Auxiliary Fan Log Procedure
+
+3.2.1 Auxiliary fans shall be inspected before each shift by the Mining Sirdar assigned to the relevant heading. The inspection shall cover:
+(a) Fan operation — confirm running and delivering air to the heading face.
+(b) Duct condition — inspect for tears, kinks, or disconnected sections within visual range.
+(c) Anti-recirculation — confirm that the fan is positioned in fresh air (not drawing return air).
+(d) Electrical connections — no exposed cabling, adequate protection.
+
+3.2.2 Auxiliary Fan Log entries shall be made in the Auxiliary Fan Log book at:
+(a) Start of shift — fan on, duct condition, position relative to face.
+(b) Mid-shift — fan running, any anomaly observed.
+(c) End of shift — fan status at shift end, any maintenance required.
+
+3.2.3 If an auxiliary fan stops during a shift, the Mining Sirdar shall:
+(a) Immediately withdraw all workers from the heading.
+(b) Notify the Overman and Fan Attendant.
+(c) Not permit re-entry until fan is restarted and heading is examined by a Sirdar and found gas-free.
+
+Section 3.3 — Post-Stoppage Re-Verification
+
+If any fan stoppage (main or auxiliary) exceeds 30 minutes:
+(a) The Overman shall conduct fresh air quantity and gas measurements before allowing re-entry.
+(b) Measurements shall be recorded in the Ventilation Register with the notation "POST STOPPAGE RE-VERIFICATION".
+(c) Re-entry authorisation shall be obtained from the Undermanager in writing.
+
+4. RESPONSIBILITIES
+
+4.1 Fan Attendant: Conducting fan status checks per Step 1, maintaining Fan Attendance Register, reporting anomalies immediately.
+
+4.2 Mining Sirdar: Conducting air quantity and gas measurements per Step 2, recording in Ventilation Register, conducting auxiliary fan inspections, restricting access to any district where ventilation is found deficient.
+
+4.3 Overman: Reviewing measurements against standards, countersigning Ventilation Register, obtaining Undermanager authorisation before deployment, acting on any deficiency.
+
+4.4 Undermanager: Countersigning the Ventilation Register, providing written authorisation for worker deployment, reviewing daily ventilation records, reporting persistent shortfalls to Mine Manager.
+
+4.5 Mine Manager: Weekly review of Ventilation Register, ensuring SOP compliance through periodic inspections, reporting ventilation non-compliance to DGMS if corrective action fails.
+
+5. EMERGENCY PROCEDURE — VENTILATION FAILURE
+
+5.1 If ventilation measurements reveal gas concentrations above threshold limits, or if the main fan fails:
+Step 1: Overman immediately notifies all working places by telephone/signal — evacuate district.
+Step 2: All workers evacuate to the nearest fresh air base.
+Step 3: Overman reports to Mine Manager and records event in the Accident/Dangerous Occurrence Register.
+Step 4: No re-entry until fan is restored and satisfactory measurements confirmed.
+Step 5: Mine Manager notifies DGMS Inspector if the stoppage exceeds 30 minutes or any gas threshold was breached.
+
+6. DOCUMENTATION
+
+6.1 Documents Required:
+(a) Ventilation Register (Form CMR-V-01).
+(b) Fan Attendance Register (Form CMR-FA-01).
+(c) Auxiliary Fan Log Book.
+(d) Undermanager's Deployment Authorisation (signed entry in Undermanager's Log or dedicated form).
+
+6.2 Retention: All registers and logs shall be retained for a minimum of 12 months and made available to DGMS Inspectors on demand.
+
+7. NON-COMPLIANCE AND ESCALATION
+
+7.1 Any person who fails to complete the pre-shift ventilation check before worker deployment has committed a serious breach of mine safety procedure and regulatory requirements.
+
+7.2 First instance: Formal warning from Mine Manager, retraining on this SOP.
+7.3 Second instance: Suspension pending disciplinary inquiry.
+7.4 Any instance resulting in worker exposure to hazardous atmosphere: mandatory incident investigation and DGMS notification under CMR 2017.
+
+Document History:
+Rev 01 — 2020-03-01: First issue.
+Rev 02 — 2022-08-15: Updated gas thresholds per DGMS-TECH-NOTE-2022-VT.
+Rev 03 — 2025-01-06: Updated pre-shift timing requirements and auxiliary fan log format.

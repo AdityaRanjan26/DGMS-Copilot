@@ -1,0 +1,21 @@
+---
+SOURCE_ID: CMR-2017-Ch-11
+TITLE: Coal Mines Regulations 2017 - Chapter XI: Precautions against Danger from Fire, Dust, Gas and Water
+SOURCE_TYPE: Statutory Regulation
+PAGE_COUNT: 20
+PUBLICATION_DATE: 2017-09-01
+SYNTHETIC: true
+ISSUING_AUTHORITY: Ministry of Labour and Employment, Govt. of India
+---
+
+Regulation 133: Precautions against fire
+1. No person shall light a fire or use a naked light in any underground part of a coal mine.
+2. Suitable fire extinguishers shall be kept readily available at strategic locations.
+
+Regulation 137: Precautions against coal dust
+1. Adequate steps shall be taken to minimize the generation of coal dust.
+2. Accumulation of coal dust on roof, floor, and sides shall be cleared periodically.
+3. Stone dusting shall be done to maintain the incombustible content of dust at not less than 75%.
+
+Regulation 149: Precautions against danger of inundation
+1. No working shall be made within 60 meters of any water body without prior permission from the Regional Inspector.

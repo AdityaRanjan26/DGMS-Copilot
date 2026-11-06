@@ -1,0 +1,26 @@
+---
+SOURCE_ID: CRIT-INC-KARO-2026
+TITLE: Critical Incident Report - Karo OCP
+SOURCE_TYPE: Incident Report
+PAGE_COUNT: 1
+PUBLICATION_DATE: 2026-06-25
+SYNTHETIC: true
+ISSUING_AUTHORITY: Karo OCP Safety Team
+---
+Shift Report - Karo OCP
+Date: 25 June 2026
+Shift: C (22:00 - 06:00)
+
+Personnel:
+- Shift Overman: Vikram Das
+
+Safety Observations:
+- Major roof fall observed in Panel 4C, 3 workers narrowly escaped.
+- Methane sensors are currently non-functional in the main heading.
+- Ventilation auxiliary fan F-04 tripped and could not be restarted, leading to air stagnation.
+- Explosives were found unattended near the drilling site without a shotfirer present.
+- Immediate evacuation ordered.
+
+Corrective Actions:
+- Evacuated the section.
+- Waiting for safety team to arrive.

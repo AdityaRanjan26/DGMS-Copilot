@@ -1,0 +1,146 @@
+---
+SOURCE_ID: CCL-SOP-CB-022
+TITLE: CCL Mine Safety SOP — Belt Conveyor Pre-Shift Inspection and Operation Procedure
+SOURCE_TYPE: Mine SOP
+PAGE_COUNT: 8
+PUBLICATION_DATE: 2026-06-17
+SYNTHETIC: true
+ISSUING_AUTHORITY: Mine Manager Office, Central Coalfields Limited
+SYNTHETIC_NOTE: This document is a realistic synthetic SOP created for the DGMS-Copilot pilot demonstration. Replace with the actual CCL SOP before production deployment.
+---
+
+CENTRAL COALFIELDS LIMITED
+A Subsidiary of Coal India Limited
+
+STANDARD OPERATING PROCEDURE
+
+Document No.: CCL-SOP-CB-022
+Title: Belt Conveyor Pre-Shift Inspection and Safe Operation Procedure
+Revision: 02
+Effective Date: 17 June 2026
+Review Due: 17 June 2028
+
+Approved by: Shri R.K. Mishra, Mine Manager, Karo OCP
+Document Custodian: Mechanical Superintendent, Karo OCP
+
+--- CONTROLLED COPY ---
+
+1. PURPOSE AND SCOPE
+
+1.1 This SOP establishes the mandatory pre-shift inspection protocol and safe operating requirements for belt conveyor systems at CCL mines, including surface CHP conveyors, stockyard feeders, and underground panel conveyors.
+
+1.2 This SOP applies to all Belt Attendants, Mining Sirdars, Overmen, and Mechanical Supervisors responsible for belt conveyor operations at CCL mines.
+
+1.3 This SOP implements the requirements of DGMS Circular No. 17 of 2024 (DGMS-CIR-2024-17), Regulation 105-108 of the Coal Mines Regulations, 2017, and the Mines Act, 1952.
+
+2. MANDATORY PRE-SHIFT INSPECTION CHECKLIST
+
+2.1 The following inspection shall be completed by an authorised person before belt conveyor operation commences at the start of each shift. No belt shall be started until the inspection is complete and recorded.
+
+ITEM 1 — PULL CORD SAFETY DEVICES
+Action: Walk the full length of the belt on both sides. Test pull cord operation at minimum at the drive station, midpoint, and tail station.
+Satisfactory: Pull cord activates emergency stop within 3 seconds. Pull cord requires manual reset. No damage to cord or mountings.
+Deficiency action: Belt must not start. Immediately report to Mechanical Supervisor.
+
+ITEM 2 — EMERGENCY STOP BUTTON BOXES
+Action: Check all emergency stop enclosures at drive station, tail station, and intermediate points.
+Satisfactory: Enclosures intact, button accessible, indicator lamp functional (where fitted), enclosure IP protection maintained.
+Deficiency action: If any emergency stop is non-functional, belt must not start.
+
+ITEM 3 — BELT CONDITION AND ALIGNMENT
+Action: Inspect belt surface on carry side and return side for tears, longitudinal rips, splice damage, or worn edges. Check belt tracking on both sides.
+Satisfactory: No tears exceeding 50mm in length. No splice separation. Belt running within 50mm of centreline.
+Deficiency action: Belt tears exceeding 50mm or any splice separation — belt must not start. Tracking deficiency exceeding 75mm — stop belt and adjust before operation.
+
+ITEM 4 — IDLER ROLLERS
+Action: Walk full belt length. Listen for seized or damaged rollers. Visually inspect roller condition.
+Satisfactory: All rollers turning freely. No rollers missing. No rollers with flat spots causing rhythmic noise.
+Deficiency action: More than 2 consecutive missing rollers — belt must not start. Seized roller near flammable material — belt must not start.
+
+ITEM 5 — GUARDING AT DRIVE, TAIL, AND DEFLECTION PULLEYS
+Action: Inspect all in-running nip guards, side covers, and top covers at each pulley.
+Satisfactory: All guards in place, secure, no gaps exceeding 6mm allowing finger access.
+Deficiency action: Any missing or damaged guard at a pulley — belt must not start.
+
+ITEM 6 — FIRE SUPPRESSION EQUIPMENT
+Action: Check fire extinguishers at drive station, transfer points, and at 60m intervals.
+Satisfactory: Correct number of extinguishers present, pressure gauge in green zone, safety pin intact, hose undamaged.
+Deficiency action: Any missing or discharged extinguisher — record deficiency and replace before start. Belt may start if only one non-critical unit is missing, but replacement must occur before end of shift.
+
+ITEM 7 — SPILLAGE AND FIRE LOAD
+Action: Inspect below and around belt at drive station, transfer points, and return idler area for coal spillage, rubber dust, or oily material accumulation.
+Satisfactory: No spillage accumulation exceeding 25mm depth over any area of 1 square metre.
+Deficiency action: Excessive fire load — clean before belt starts. Document the cleaning in the shift register.
+
+ITEM 8 — ILLUMINATION
+Action: Verify that all belt gallery lighting is functional.
+Satisfactory: Belt corridor illuminated adequately — minimum 20 lux at walkway level.
+Deficiency action: Record deficiency and arrange repair. If illumination failure is critical (complete darkness in any section), belt must not start until temporary lighting is provided.
+
+ITEM 9 — BELT SWAY SWITCH
+Action: Visually confirm belt sway switches are in position on both carry and return sides.
+Satisfactory: Switches present and undamaged. Switch activation lever free to move.
+Deficiency action: Missing or damaged sway switch — belt must not start.
+
+ITEM 10 — DRIVE STATION — MECHANICAL CONDITION
+Action: Inspect gearbox oil level indicator, coupling condition, and motor cooling fan.
+Satisfactory: Oil at specified level, no visible oil leaks, coupling guard in place.
+Deficiency action: Oil below minimum — top up before starting. Any coupling guard missing — belt must not start.
+
+3. INSPECTION RECORD
+
+3.1 After completing all 10 items, the authorised person shall:
+(a) Complete all fields in the Belt Conveyor Inspection Register for the relevant belt designation.
+(b) Mark each item as SATISFACTORY (S) or DEFICIENT (D).
+(c) Record details of each deficiency in the "Deficiency Description" column.
+(d) Sign and record time of inspection completion.
+(e) If all items are satisfactory, sign the "Belt Cleared for Operation" line.
+(f) If any item is deficient and prevents start, sign the "Belt HOLD — Deficiency Pending" line and notify the Mechanical Supervisor.
+
+3.2 The Mining Sirdar or Overman responsible for the area shall:
+(a) Review the inspection record before the belt starts.
+(b) Countersign the register.
+(c) If a deficiency is recorded, ensure the rectification action is entered in the register and signed off by the Mechanical Supervisor before operation commences.
+
+4. SHIFT MONITORING DURING OPERATION
+
+4.1 During the shift, the Belt Attendant shall:
+(a) Patrol the full belt length not less than once per hour or as directed by the Overman.
+(b) During patrol, verify: belt running centrally, no new spillage accumulation, no unusual noise or smell.
+(c) Activate the nearest emergency stop IMMEDIATELY on observing: fire, smoke, severe belt wander, torn belt, or any person trapped near the belt.
+(d) Record patrols and any observations in the Belt Attendant Log.
+
+5. STARTING AND STOPPING PROCEDURE
+
+5.1 Starting:
+(a) Sound the pre-start warning signal (horn or bell) not less than 5 seconds before pressing start.
+(b) Ensure all persons are clear of the belt and all nip points.
+(c) Start at the head (drive) end.
+(d) Monitor for 30 seconds after start for any unusual noise, vibration, belt wander, or safety device activation.
+
+5.2 Normal Stopping:
+(a) Follow the inter-lock sequence if the belt is part of a conveyor system — start stopping from the loading end.
+(b) Allow belt to run empty before final stop where practicable.
+(c) Apply drive lock-out if belt is stopped for maintenance.
+
+5.3 Emergency Stop:
+(a) Any person may activate an emergency stop at any time.
+(b) After emergency stop activation, the belt shall not be restarted until the cause is identified, the authorised person has signed the restart authorisation in the register, and the pull cord or emergency stop button has been manually reset.
+
+6. MAINTENANCE COORDINATION
+
+6.1 Any deficiency found during inspection or operation that requires maintenance shall be raised as a Work Order on the mine's maintenance management system.
+
+6.2 The Work Order number shall be recorded in the Belt Inspection Register adjacent to the deficiency entry.
+
+6.3 No deficiency affecting safety devices (pull cord, emergency stop, guarding, sway switch) shall remain open for more than one shift without written authorisation from the Mine Manager.
+
+7. NON-COMPLIANCE
+
+7.1 Starting a belt conveyor without completing the pre-shift inspection and making the required register entries constitutes a serious safety violation under DGMS Circular No. 17 of 2024 and CMR 2017 Regulation 108.
+
+7.2 Any repeated non-compliance (two or more instances within 30 days) shall be reported by the Mine Manager to DGMS.
+
+Document History:
+Rev 01 — 2023-11-01: First issue.
+Rev 02 — 2026-06-17: Updated to comply with DGMS-CIR-2024-17. Added Items 9 and 10.
