@@ -23,8 +23,8 @@ Enterprise-style mining compliance assistant for Central Coalfields Limited work
 
 ### 2. Startup
 ```bash
-git clone <repository-url>
-cd dgms-copilot
+git clone https://github.com/AdityaRanjan26/DGMS-Copilot.git
+cd DGMS-Copilot
 npm install
 npm run dev
 ```
@@ -47,3 +47,7 @@ Open `http://localhost:3000`.
 7. Operational Report Analysis: safety observations and recommended closure actions.
 8. System Architecture: document ingestion to assistant retrieval flow.
 9. Governance: access, ingestion, and audit controls.
+
+## Deep-Dive Technical Documentation
+
+For an exhaustive architectural breakdown, mathematical formulation of the hybrid RAG retrieval pipeline (BM25 + SQLite/NumPy vector store), risk scoring matrices, and complete API specifications, see **[PROJECT_DEEP_DIVE.md](./PROJECT_DEEP_DIVE.md)**.
