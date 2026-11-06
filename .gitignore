@@ -44,6 +44,9 @@ backend/auth.db
 # Benchmark / test output artifacts
 backend/benchmark_results.json
 
+# Internal interview preparation & technical notes
+DGMS_COPILOT_INTERVIEW_MASTER.md
+
 # TypeScript build info
 *.tsbuildinfo
 
